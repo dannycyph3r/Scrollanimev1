@@ -2,7 +2,7 @@ import './style.css'
 import * as THREE from 'three';
 
 
-//You need a SCENE , CAMERA and RENDERER 
+//You need a SCENE ,CAMERA and RENDERER 
 
 // Getting started
 const scene = new THREE.Scene();
